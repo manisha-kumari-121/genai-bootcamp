@@ -1,0 +1,11 @@
+langchain[groq]
+python-dotenv
+langgraph
+langchain_mcp_adapters
+streamlit
+google.genai
+langchain_community
+langchain_chroma
+beautifulsoup4
+requests
+langchain_google_genai
